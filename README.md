@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, there.
 
-<!--
-**ifshizuku/ifshizuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kawasaki Shizuku**, 15-year-old Chinese senior high school student.Amateur individual developer, amateur photographer. Anyway, in a word, I can do everything, but I'm not good at anything. Life is controlled by mood, and sometimes you can't find the meaning of life. There are a lot of trouble but no way to solve, or very sad, want to use other ways, such as programming to relieve the pressure, it is only better late than never. So only this, set out to pursue the original dream, follow the original light.
 
-Here are some ideas to get you started:
+**Bio：**Rainy Umbrella
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cause I konw U are my answer, cause I know you are my Polaris, oh just give me a sign.
+
+
+## Skills
+Primary Programming Language: JavaScript
+Programming language being learned: Go, Swift
+
+UI/UX Design, FrontedEnd Developer
+
+AMATEUR Guitarist, Writer
+
+## Social
+Twitter: @ifshizuku
+Dribbble: @coldwith
+Netease Music: @_coldwith
+Bilibili: @_coldwith
+Coolapk：@Natsuka
+Unsplash：@ifshizuku
