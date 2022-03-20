@@ -23,8 +23,8 @@ Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/ifshizuku/seen-homepage/issues/4) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-2. 🗣 Commented on [#5](https://github.com/ifshizuku/seen-homepage/issues/5) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-3. ❗️ Opened issue [#6](https://github.com/ifshizuku/seen-homepage/issues/6) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-4. ❗️ Opened issue [#5](https://github.com/ifshizuku/seen-homepage/issues/5) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-5. ❗️ Closed issue [#3](https://github.com/ifshizuku/seen-homepage/issues/3) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+2. 🗣 Commented on [#4](https://github.com/ifshizuku/seen-homepage/issues/4) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+3. 🗣 Commented on [#5](https://github.com/ifshizuku/seen-homepage/issues/5) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+4. ❗️ Opened issue [#6](https://github.com/ifshizuku/seen-homepage/issues/6) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+5. ❗️ Opened issue [#5](https://github.com/ifshizuku/seen-homepage/issues/5) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
 <!--END_SECTION:activity-->
