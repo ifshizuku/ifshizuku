@@ -28,3 +28,8 @@ Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili
 4. 🎉 Merged PR [#7](https://github.com/ifshizuku/seen-homepage/pull/7) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
 5. 💪 Opened PR [#7](https://github.com/ifshizuku/seen-homepage/pull/7) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
 <!--END_SECTION:activity-->
+
+<img
+  src="https://github.com/ifshizuku/ifshizuku/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
