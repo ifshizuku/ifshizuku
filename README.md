@@ -22,11 +22,11 @@ Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili
 ![](https://github-readme-stats.vercel.app/api?username=ifshizuku&show_icons=true&theme=material-palenight)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/ifshizuku/seen-homepage/issues/16) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-2. ❗️ Opened issue [#16](https://github.com/ifshizuku/seen-homepage/issues/16) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-3. ❗️ Closed issue [#4](https://github.com/ifshizuku/seen-homepage/issues/4) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-4. ❗️ Closed issue [#2](https://github.com/ifshizuku/seen-homepage/issues/2) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-5. 🎉 Merged PR [#15](https://github.com/ifshizuku/seen-homepage/pull/15) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+1. ❗️ Opened issue [#17](https://github.com/ifshizuku/seen-homepage/issues/17) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+2. 🗣 Commented on [#16](https://github.com/ifshizuku/seen-homepage/issues/16) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+3. ❗️ Opened issue [#16](https://github.com/ifshizuku/seen-homepage/issues/16) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+4. ❗️ Closed issue [#4](https://github.com/ifshizuku/seen-homepage/issues/4) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+5. ❗️ Closed issue [#2](https://github.com/ifshizuku/seen-homepage/issues/2) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
 <!--END_SECTION:activity-->
 
 <img
