@@ -22,11 +22,11 @@ Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili
 ![](https://github-readme-stats.vercel.app/api?username=ifshizuku&show_icons=true&theme=material-palenight)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/ifshizuku/seen-homepage/issues/22) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-2. 🗣 Commented on [#147](https://github.com/shadowwalker/next-pwa/issues/147) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-3. ❗️ Opened issue [#25](https://github.com/ifshizuku/seen-homepage/issues/25) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-4. 🗣 Commented on [#22](https://github.com/ifshizuku/seen-homepage/issues/22) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-5. ❗️ Closed issue [#16](https://github.com/ifshizuku/seen-homepage/issues/16) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+1. 🗣 Commented on [#22](https://github.com/ifshizuku/seen-homepage/issues/22) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+2. ❗️ Closed issue [#22](https://github.com/ifshizuku/seen-homepage/issues/22) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+3. 🗣 Commented on [#147](https://github.com/shadowwalker/next-pwa/issues/147) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+4. ❗️ Opened issue [#25](https://github.com/ifshizuku/seen-homepage/issues/25) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
+5. 🗣 Commented on [#22](https://github.com/ifshizuku/seen-homepage/issues/22) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
 <!--END_SECTION:activity-->
 
 <img
