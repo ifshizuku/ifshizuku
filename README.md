@@ -4,7 +4,7 @@
 
 **Bio**：Rainy Umbrella
 
-Cause I konw U are my **answer**, cause I know you are my **Polaris**, oh just **give me a sign**.
+*Cause I konw U are my **answer**, cause I know you are my **Polaris**, oh just **give me a sign**.*
 
 
 ## Skills
