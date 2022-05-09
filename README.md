@@ -6,6 +6,7 @@
 
 *Cause I konw U are my **answer**, cause I know you are my **Polaris**, oh just **give me a sign**.*
 
+**The pressure of high school learning is increasing day by day, and the related progress of *output content* will be significantly slowed down**
 
 ## Skills
 **Primary** Programming Language: JavaScript
@@ -16,7 +17,7 @@ UI/UX **Design**, **FrontedEnd** Developer
 **AMATEUR** Guitarist, Writer
 
 ## Social
-Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili: @_coldwith / Coolapk：@Natsuka / Unsplash：@ifshizuku
+Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili: @_coldwith / Unsplash：@ifshizuku
 
 ## Status
 ![](https://github-readme-stats.vercel.app/api?username=ifshizuku&show_icons=true&theme=material-palenight)
