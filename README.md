@@ -18,19 +18,3 @@ UI/UX **Design**, **FrontedEnd** Developer
 
 ## Social
 Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili: @_coldwith / Unsplash：@ifshizuku
-
-## Status
-![](https://github-readme-stats.vercel.app/api?username=ifshizuku&show_icons=true&theme=material-palenight)
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#766](https://github.com/reactjs/zh-hans.reactjs.org/issues/766) in [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org)
-2. 🗣 Commented on [#4](https://github.com/reactjs/zh-hans.reactjs.org/issues/4) in [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org)
-3. 🗣 Commented on [#493](https://github.com/HMUniversity/About/issues/493) in [HMUniversity/About](https://github.com/HMUniversity/About)
-4. ❗️ Opened issue [#493](https://github.com/HMUniversity/About/issues/493) in [HMUniversity/About](https://github.com/HMUniversity/About)
-5. 🗣 Commented on [#22](https://github.com/ifshizuku/seen-homepage/issues/22) in [ifshizuku/seen-homepage](https://github.com/ifshizuku/seen-homepage)
-<!--END_SECTION:activity-->
-
-<img
-  src="https://github.com/ifshizuku/ifshizuku/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
