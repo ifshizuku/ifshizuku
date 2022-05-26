@@ -15,6 +15,3 @@ Programming language **being learned**: Go, Swift
 UI/UX **Design**, **FrontedEnd** Developer
 
 **AMATEUR** Guitarist, Writer
-
-## Social
-Twitter: @ifshizuku / Dribbble: @coldwith / Netease Music: @_coldwith / Bilibili: @_coldwith / Unsplash：@ifshizuku
